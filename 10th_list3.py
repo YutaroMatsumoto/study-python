@@ -14,6 +14,9 @@ print(r)
 r.reverse()
 print(r)
 
+
+print('########################')
+
 s = 'My name is Mike.'
 print(s)
 to_split = s.split(' ')
